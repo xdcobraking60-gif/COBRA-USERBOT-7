@@ -1,0 +1,16 @@
+telethon
+aiohttp
+aiosqlite
+colorama
+cryptg
+edge-tts
+ffmpeg-python
+gtts
+numpy
+pillow
+py-tgcalls
+qrcode
+requests
+yt-dlp
+pyfiglet
+psutil
